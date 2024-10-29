@@ -1,8 +1,8 @@
 ## Identitas
 
-Nama: 
+Nama: Ariq Hisyam Syahputra
 
-NIM : 
+NIM : 607062400025
 
 ## Instruksi
 
